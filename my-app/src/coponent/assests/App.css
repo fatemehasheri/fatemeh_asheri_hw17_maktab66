@@ -1,0 +1,26 @@
+.list{
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    line-height: 20px;
+}
+
+.AllItem{
+    padding: 15px 60px;
+    background-color: aqua;
+}
+
+.SelectedItems{
+    padding: 15px 50px;
+    background-color: coral; 
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.h2-AllItem{
+    text-align: center;
+}
